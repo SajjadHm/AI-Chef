@@ -1,8 +1,7 @@
-Here's the updated README file with your project name, **AI Chef: A VLM makes you food**:
-
----
 
 # AI Chef: A VLM Makes You Food
+
+![AI Chef Logo](result.png)
 
 ## Table of Contents
 - [Introduction](#introduction)
